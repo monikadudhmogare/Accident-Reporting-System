@@ -1,4 +1,8 @@
-# Accident Reporting 
+# Accident Reporting System
+
+The system is a prototype of an 'Accident Assisting System' that collects the useful information
+during the accident using virtual sensors installed in the car and pushes that data to the cloud deployed
+application. The objective is to get the aid faster and assist the accident investigation. 
 
 ## Prerequisite
 mongodb should be installed and running
